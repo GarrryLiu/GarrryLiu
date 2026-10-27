@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/GarrryLiu/GarrryLiu/9e58693a8c1a9b8a44708ddcb5f7e82e83492f34/assets/intro.svg" width="100%" alt="Gary Liu — Brown University. Applied Mathematics &amp; Computer Science. I work on backend systems and ML infrastructure." />
+<img src="https://raw.githubusercontent.com/GarrryLiu/GarrryLiu/688a5b211278756b1bcb6a638ae3383f8ba0b7ee/assets/intro.svg" width="100%" alt="Gary Liu — Brown University. Applied Mathematics &amp; Computer Science. I work on backend systems and ML infrastructure." />
