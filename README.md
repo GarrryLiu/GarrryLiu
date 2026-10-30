@@ -4,4 +4,8 @@ I'm an Applied Mathematics and Computer Science student at Brown University. I p
 
 I've mostly worked on backend systems and machine learning. My work now follows two directions: ML infrastructure and hardware acceleration with GPUs and FPGAs, and model training through post-training and world models.
 
+On campus, I'm a Technical Director at [Full Stack at Brown](https://github.com/fullstackatbrown).
+
+Want to build something together or just chat? Feel free to reach out 👇
+
 [✉️ Email](mailto:yihong_liu@brown.edu) · [🔗 LinkedIn](https://www.linkedin.com/in/gary-liu-yihong/)
