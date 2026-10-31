@@ -6,6 +6,6 @@ I've mostly worked on backend systems and machine learning. My work now follows 
 
 Want to build something together or just chat? Feel free to reach out.
 
-<p align="center">
-<a href="mailto:yihong_liu@brown.edu" title="Email"><img src="./assets/email-link.svg?v=3" width="62" height="22" alt="Email" /></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/gary-liu-yihong/" title="LinkedIn"><img src="./assets/linkedin-link.svg?v=3" width="82" height="22" alt="LinkedIn" /></a>
+<p align="left">
+<a href="mailto:yihong_liu@brown.edu" title="Email"><img src="./assets/email-link.svg?v=4" width="62" height="22" alt="Email" /></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/gary-liu-yihong/" title="LinkedIn"><img src="./assets/linkedin-link.svg?v=4" width="82" height="22" alt="LinkedIn" /></a>
 </p>
