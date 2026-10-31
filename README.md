@@ -4,7 +4,7 @@ I'm an Applied Math and Computer Science student at Brown University. I previous
 
 I've mostly worked on backend systems and machine learning. My work now follows two directions: ML infrastructure and hardware acceleration with GPUs and FPGAs, and model training through post-training and world models.
 
-Want to build something together or just chat? Feel free to reach out.
+Want to build something together or just chat? 👇👇
 <p align="left">
 <a href="mailto:yihong_liu@brown.edu" title="Email"><img src="./assets/email-link.svg?v=4" width="62" height="22" alt="Email" /></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/gary-liu-yihong/" title="LinkedIn"><img src="./assets/linkedin-link.svg?v=4" width="82" height="22" alt="LinkedIn" /></a>
 </p>
